@@ -1,5 +1,5 @@
 import pandas as pd,os,streamlit as st
-import sqlite3 
+# import sqlite3 
 # import SenaoDB
 import streamlit.components.v1 as components
 import streamlit_authenticator as stauth
