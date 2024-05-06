@@ -2,4 +2,4 @@ altair
 pandas
 streamlit
 yaml
-streamlit_authenticator
+
