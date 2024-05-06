@@ -13,6 +13,8 @@ forums](https://discuss.streamlit.io).
 In the meantime, below is an example of what you can do with just a few lines of code:
 """
 
+st.write('修改紀錄')
+
 st.title('修改標題')
 
 num_points = st.slider("Number of points in spiral", 1, 10000, 1100)
