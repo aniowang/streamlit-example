@@ -1,3 +1,5 @@
 altair
 pandas
 streamlit
+sqlite3
+yaml
