@@ -1,6 +1,5 @@
 altair
 pandas
 streamlit
-sqlite3
 yaml
 streamlit_authenticator
