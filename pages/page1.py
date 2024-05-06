@@ -5,4 +5,4 @@ import pandas as pd
 測試頁1
 """
 
-st.title('分頁1')
+st.write('分頁1')
